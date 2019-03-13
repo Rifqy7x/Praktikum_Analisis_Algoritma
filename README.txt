@@ -1,3 +1,2 @@
-Maaf atas keterlambatannya
-
-untuk IDE, saya menggunakan CodeBlock
+Muhammad Rifqy Aulia Akbar
+140810160055
