@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1553661335 source:e:\programs\c++\allsort\main.cpp
+	<math.h>
+	<stdio.h>
+	<algorithm>
+	<chrono>
+	<iostream>
+	<stdlib.h>
+
